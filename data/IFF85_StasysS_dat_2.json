@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Francisca Silva",
+    "gender": "female",
+    "weight": 93.9,
+    "amountOfDrinks": 5,
+    "acOfDrinks": 9
+  },
+  {
+    "name": "Mcneil Pennington",
+    "gender": "male",
+    "weight": 85.5,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 11
+  },
+  {
+    "name": "Case Graham",
+    "gender": "male",
+    "weight": 76.4,
+    "amountOfDrinks": 1,
+    "acOfDrinks": 15
+  },
+  {
+    "name": "Jordan Chase",
+    "gender": "male",
+    "weight": 75,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 23
+  },
+  {
+    "name": "West Freeman",
+    "gender": "male",
+    "weight": 90.1,
+    "amountOfDrinks": 3,
+    "acOfDrinks": 15
+  },
+  {
+    "name": "Hendricks Vaughn",
+    "gender": "male",
+    "weight": 53.4,
+    "amountOfDrinks": 8,
+    "acOfDrinks": 14
+  },
+  {
+    "name": "Cantu Dickerson",
+    "gender": "male",
+    "weight": 54.6,
+    "amountOfDrinks": 2,
+    "acOfDrinks": 30
+  },
+  {
+    "name": "Tracie Mcknight",
+    "gender": "female",
+    "weight": 98.7,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 26
+  },
+  {
+    "name": "Clements Melendez",
+    "gender": "male",
+    "weight": 98.7,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 31
+  },
+  {
+    "name": "Cooley Sellers",
+    "gender": "male",
+    "weight": 56.5,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 32
+  },
+  {
+    "name": "Velazquez Leblanc",
+    "gender": "male",
+    "weight": 88.5,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 16
+  },
+  {
+    "name": "Cara Mcclain",
+    "gender": "female",
+    "weight": 40.9,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 33
+  },
+  {
+    "name": "Jennie Dyer",
+    "gender": "female",
+    "weight": 48,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 13
+  },
+  {
+    "name": "Aileen Yang",
+    "gender": "female",
+    "weight": 80.2,
+    "amountOfDrinks": 8,
+    "acOfDrinks": 27
+  },
+  {
+    "name": "Mercedes Livingston",
+    "gender": "female",
+    "weight": 39.1,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 9
+  },
+  {
+    "name": "Lenore Castaneda",
+    "gender": "female",
+    "weight": 41.8,
+    "amountOfDrinks": 4,
+    "acOfDrinks": 20
+  },
+  {
+    "name": "Walsh Boyle",
+    "gender": "male",
+    "weight": 92.5,
+    "amountOfDrinks": 8,
+    "acOfDrinks": 38
+  },
+  {
+    "name": "Carrie Boyer",
+    "gender": "female",
+    "weight": 36.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 31
+  },
+  {
+    "name": "Dominguez Shaw",
+    "gender": "male",
+    "weight": 63,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 9
+  },
+  {
+    "name": "Mercer Mcgowan",
+    "gender": "male",
+    "weight": 72.3,
+    "amountOfDrinks": 4,
+    "acOfDrinks": 24
+  },
+  {
+    "name": "Moss Winters",
+    "gender": "male",
+    "weight": 45.2,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 6
+  },
+  {
+    "name": "Norma Carney",
+    "gender": "female",
+    "weight": 61,
+    "amountOfDrinks": 10,
+    "acOfDrinks": 17
+  },
+  {
+    "name": "Duran Harper",
+    "gender": "male",
+    "weight": 71.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 34
+  },
+  {
+    "name": "Vickie Harrell",
+    "gender": "female",
+    "weight": 83,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 35
+  },
+  {
+    "name": "Adkins Hammond",
+    "gender": "male",
+    "weight": 49.2,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 36
+  }
+]

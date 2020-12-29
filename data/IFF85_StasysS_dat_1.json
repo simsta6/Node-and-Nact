@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Ana Contreras",
+    "gender": "female",
+    "weight": 74.7,
+    "amountOfDrinks": 3,
+    "acOfDrinks": 10
+  },
+  {
+    "name": "Alisa Mcconnell",
+    "gender": "female",
+    "weight": 75.4,
+    "amountOfDrinks": 4,
+    "acOfDrinks": 30
+  },
+  {
+    "name": "Letitia Colon",
+    "gender": "female",
+    "weight": 65.1,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 18
+  },
+  {
+    "name": "Romero Hull",
+    "gender": "male",
+    "weight": 55.8,
+    "amountOfDrinks": 5,
+    "acOfDrinks": 33
+  },
+  {
+    "name": "Jones Stewart",
+    "gender": "male",
+    "weight": 50.4,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 39
+  },
+  {
+    "name": "Chang Aguirre",
+    "gender": "male",
+    "weight": 43.5,
+    "amountOfDrinks": 3,
+    "acOfDrinks": 36
+  },
+  {
+    "name": "Jenna Vega",
+    "gender": "female",
+    "weight": 99.4,
+    "amountOfDrinks": 2,
+    "acOfDrinks": 27
+  },
+  {
+    "name": "Ramos Bartlett",
+    "gender": "male",
+    "weight": 65.1,
+    "amountOfDrinks": 2,
+    "acOfDrinks": 17
+  },
+  {
+    "name": "Stanton Bishop",
+    "gender": "male",
+    "weight": 79.5,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 9
+  },
+  {
+    "name": "Elisa Calderon",
+    "gender": "female",
+    "weight": 46.8,
+    "amountOfDrinks": 2,
+    "acOfDrinks": 9
+  },
+  {
+    "name": "Ingram Dickerson",
+    "gender": "male",
+    "weight": 69.1,
+    "amountOfDrinks": 3,
+    "acOfDrinks": 13
+  },
+  {
+    "name": "Isabelle Greene",
+    "gender": "female",
+    "weight": 97.7,
+    "amountOfDrinks": 9,
+    "acOfDrinks": 33
+  },
+  {
+    "name": "Caldwell Campos",
+    "gender": "male",
+    "weight": 42.7,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 24
+  },
+  {
+    "name": "Noemi Michael",
+    "gender": "female",
+    "weight": 84.3,
+    "amountOfDrinks": 8,
+    "acOfDrinks": 26
+  },
+  {
+    "name": "Summers Marks",
+    "gender": "male",
+    "weight": 37.6,
+    "amountOfDrinks": 3,
+    "acOfDrinks": 8
+  },
+  {
+    "name": "Victoria Newton",
+    "gender": "female",
+    "weight": 49.6,
+    "amountOfDrinks": 8,
+    "acOfDrinks": 34
+  },
+  {
+    "name": "Reese Cain",
+    "gender": "male",
+    "weight": 46.2,
+    "amountOfDrinks": 10,
+    "acOfDrinks": 29
+  },
+  {
+    "name": "Deborah Wells",
+    "gender": "female",
+    "weight": 56.2,
+    "amountOfDrinks": 4,
+    "acOfDrinks": 17
+  },
+  {
+    "name": "Wilkins Molina",
+    "gender": "male",
+    "weight": 90.5,
+    "amountOfDrinks": 9,
+    "acOfDrinks": 29
+  },
+  {
+    "name": "Joanna Hebert",
+    "gender": "female",
+    "weight": 55,
+    "amountOfDrinks": 8,
+    "acOfDrinks": 38
+  },
+  {
+    "name": "Carter Mccall",
+    "gender": "male",
+    "weight": 43.5,
+    "amountOfDrinks": 1,
+    "acOfDrinks": 27
+  },
+  {
+    "name": "Pitts Juarez",
+    "gender": "male",
+    "weight": 94.6,
+    "amountOfDrinks": 1,
+    "acOfDrinks": 7
+  },
+  {
+    "name": "Dunn Cameron",
+    "gender": "male",
+    "weight": 40.2,
+    "amountOfDrinks": 7,
+    "acOfDrinks": 40
+  },
+  {
+    "name": "Long Frank",
+    "gender": "male",
+    "weight": 75.4,
+    "amountOfDrinks": 10,
+    "acOfDrinks": 5
+  },
+  {
+    "name": "Maria Battle",
+    "gender": "female",
+    "weight": 51.1,
+    "amountOfDrinks": 10,
+    "acOfDrinks": 12
+  }
+]

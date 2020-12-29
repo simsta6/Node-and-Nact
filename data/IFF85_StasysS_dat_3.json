@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Floyd French",
+    "gender": "male",
+    "weight": 65.6,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 37
+  },
+  {
+    "name": "Bowers Shaw",
+    "gender": "male",
+    "weight": 81.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 26
+  },
+  {
+    "name": "Davidson Keith",
+    "gender": "male",
+    "weight": 77.8,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 7
+  },
+  {
+    "name": "Nichols Haley",
+    "gender": "male",
+    "weight": 48.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 12
+  },
+  {
+    "name": "Corine Macdonald",
+    "gender": "female",
+    "weight": 76.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 26
+  },
+  {
+    "name": "Rowe Leblanc",
+    "gender": "male",
+    "weight": 94.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 14
+  },
+  {
+    "name": "Reid Ray",
+    "gender": "male",
+    "weight": 52.1,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 15
+  },
+  {
+    "name": "Anastasia Macias",
+    "gender": "female",
+    "weight": 62.3,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 22
+  },
+  {
+    "name": "Maryann Conway",
+    "gender": "female",
+    "weight": 74,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 16
+  },
+  {
+    "name": "Maribel Wiggins",
+    "gender": "female",
+    "weight": 82.9,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 6
+  },
+  {
+    "name": "Sonya Cervantes",
+    "gender": "female",
+    "weight": 84.5,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 10
+  },
+  {
+    "name": "Bethany Hines",
+    "gender": "female",
+    "weight": 99.3,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 15
+  },
+  {
+    "name": "Lolita Bernard",
+    "gender": "female",
+    "weight": 80.9,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 17
+  },
+  {
+    "name": "Rachelle Chambers",
+    "gender": "female",
+    "weight": 41.6,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 20
+  },
+  {
+    "name": "Jennie Deleon",
+    "gender": "female",
+    "weight": 44.8,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 10
+  },
+  {
+    "name": "Liza Medina",
+    "gender": "female",
+    "weight": 66.8,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 29
+  },
+  {
+    "name": "Elliott Buck",
+    "gender": "male",
+    "weight": 97.2,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 38
+  },
+  {
+    "name": "Gabriela Cantu",
+    "gender": "female",
+    "weight": 39.8,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 8
+  },
+  {
+    "name": "Levine Ward",
+    "gender": "male",
+    "weight": 61.3,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 35
+  },
+  {
+    "name": "Singleton Oneil",
+    "gender": "male",
+    "weight": 73.1,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 11
+  },
+  {
+    "name": "Carlson Foster",
+    "gender": "male",
+    "weight": 80.1,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 37
+  },
+  {
+    "name": "Maxwell Hopper",
+    "gender": "male",
+    "weight": 46.4,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 40
+  },
+  {
+    "name": "Adriana Meyer",
+    "gender": "female",
+    "weight": 78,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 31
+  },
+  {
+    "name": "Isabel Richard",
+    "gender": "female",
+    "weight": 37.3,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 28
+  },
+  {
+    "name": "Gray Guerra",
+    "gender": "male",
+    "weight": 54.5,
+    "amountOfDrinks": 0,
+    "acOfDrinks": 18
+  }
+]
