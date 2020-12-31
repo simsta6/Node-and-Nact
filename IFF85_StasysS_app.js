@@ -1,7 +1,7 @@
 const { start, dispatch, stop, spawn, spawnStateless, children } = require('nact');
 const fs = require('fs');
 
-const resultFile = `IFF85_StasysS_dat.txt`;
+const resultFile = `IFF85_StasysS_rez.txt`;
 
 const msgTypes = {
   //Skirstytuvo kodai
